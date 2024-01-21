@@ -1,5 +1,5 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=noetovar5.LinuxSystemInformation
-"/>
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=noetovar5.LinuxSystemInformation"/>
 
 ## LinuxSystemInformation
 Learn Linux system information essential need to know commands.
